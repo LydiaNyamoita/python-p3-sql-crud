@@ -1,0 +1,5 @@
+INSERT INTO cats (name, age, breed) VALUES ('Lil Bub', 3, 'American Shorthair');
+
+INSERT INTO cats (name, age, breed) VALUES ('Hannah', 3, 'Tabby');
+
+INSWERT INTO cats(name,age,breed) VALUES ('Maru', 3, 'Scottish Fold')
